@@ -5,9 +5,9 @@
 For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/4.1.0/maven-plugin)
-* [Create an OCI image](https://docs.spring.io/spring-boot/4.1.0/maven-plugin/build-image.html)
-* [Spring Web](https://docs.spring.io/spring-boot/4.1.0/reference/web/servlet.html)
+* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/3.5.15/maven-plugin)
+* [Create an OCI image](https://docs.spring.io/spring-boot/3.5.15/maven-plugin/build-image.html)
+* [Spring Web](https://docs.spring.io/spring-boot/3.5.15/reference/web/servlet.html)
 
 ### Guides
 
